@@ -1,6 +1,6 @@
 # biker_prediction
 
-A new Flutter application.
+This application predicts how many bikers you will come across when drving along a certain distance.
 
 ## Getting Started
 
