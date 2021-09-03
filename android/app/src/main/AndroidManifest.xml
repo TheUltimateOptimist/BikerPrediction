@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jonathan.biker_prediction">
    <application
-        android:label="biker_prediction"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Fahrrad Vorhersage"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
